@@ -1,3 +1,4 @@
+<?php
 /**
 * Trait EnumToArray
 * Provide static functions to backed enums - specifically strings
